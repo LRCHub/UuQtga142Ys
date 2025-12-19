@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "未読の周波数",
+  "base_artist": "susumu.",
+  "createdAt": "2025-12-19T10:25:29.012596Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未読の周波数",
+      "artist": "susumu.",
+      "has_synced": false,
+      "path": "select/pl_01_未読の周波数_susumu..txt"
+    }
+  ]
+}
